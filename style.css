@@ -1,0 +1,33 @@
+.nav_items {
+    display: inline;
+    margin-right: 10px;
+    
+}
+h1{
+  color:wheat;
+}
+
+body{
+  background-color:black;
+}
+
+p{
+  color:white;
+  font-family:"Times New Roman";
+  text-align: justify;
+  margin-top: 40px;
+}
+
+a{
+    color: aquamarine;
+}
+
+img {
+    
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
